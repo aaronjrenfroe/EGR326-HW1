@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class ShoppingMain {
 	// the name of the catalog file of products to purchase;
 	// you can change this to "mycatalog.txt" to test your own catalog file
-	private static final String CATALOG_FILE_NAME = "myCatalog.txt";
+	private static final String CATALOG_FILE_NAME = "catalog.txt";
 	
 	/**
 	 * Runs the application by reading the catalog and creating a shopping gui.
